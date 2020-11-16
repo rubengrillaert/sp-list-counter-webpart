@@ -1,0 +1,43 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+.counter{
+    
+    .counterTitleContainer{
+        font-size: 32px;
+        font-weight: bold;
+        height: 42.4px;
+        div{
+            p{
+                text-align: center;
+            }
+        }
+    }
+    .mainCounterContainer{
+        font-size: 40px;
+        font-weight: bold;
+        height: 53.6px;
+        div{
+            p{
+                text-align: center;
+            }
+        }
+    }
+    .groupByCounterContainer{
+        width: 100%;
+        ul{
+            padding-left: 0;
+            text-decoration: none;
+            li{
+                width: calc(100%/5);  
+                display: inline-block;
+                div{
+                    display: block;
+                    p{
+                        text-align: center;
+                    }
+                }
+                
+            }
+        }
+    }
+}
