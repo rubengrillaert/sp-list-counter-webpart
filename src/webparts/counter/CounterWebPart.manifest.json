@@ -17,11 +17,11 @@
   "preconfiguredEntries": [{
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Other
     "group": { "default": "Other" },
-    "title": { "default": "counter" },
+    "title": { "default": "Counter" },
     "description": { "default": "counter to get number of items in list and filter on metadata" },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "counter"
+      "description": "Counter"
     }
   }]
 }

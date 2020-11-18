@@ -5,6 +5,8 @@ declare interface ICounterWebPartStrings {
   SelectSiteContentList: string;
   FilterSiteContentList: string;
   SelectList: string;
+  SelectView: string;
+  GroupBy: string;
   Title:string;
 }
 
