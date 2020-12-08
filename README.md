@@ -3,7 +3,7 @@
 ## Summary
 
 This webpart provides tha ability to select an existing list and display the number of items.
-It is also possible to select e view of that list and group by the elements.
+It is also possible to select e view of that list and group by the elements. The image 'Example.png' shows an example of the webpart. Here is a list with Attandees selected and they are also grouped by sector.
 
 ## Used SharePoint Framework Version
 
