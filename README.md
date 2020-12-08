@@ -1,10 +1,9 @@
-# john-c-counter
+# sp list counter
 
 ## Summary
 
-Short summary on functionality and used technologies.
-
-[picture of the solution in action, if possible]
+This webpart provides tha ability to select an existing list and display the number of items.
+It is also possible to select e view of that list and group by the elements.
 
 ## Used SharePoint Framework Version
 
